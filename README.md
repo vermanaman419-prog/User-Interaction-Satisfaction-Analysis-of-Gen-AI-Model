@@ -57,7 +57,7 @@ The dataset contains ~2000 user interactions with the following key fields:
 - GitHub
 
 # 📸 Dashboard Preview
-🔗 Interactive Tableau Dashboard: https://public.tableau.com/app/profile/naman.verma1342/viz/GenAIModelDataVisualization/Dashboard1
+🔗 Interactive Dashboard: https://lookerstudio.google.com/reporting/165c807f-9d3f-404a-af00-eeab05e6aeac
 
 # Learnings
 - Enhanced understanding of EDA using Python.
